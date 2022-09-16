@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\Contagem de Controles\Contagem de Controles\bin\Debug\Contagem de Controles.exe.config
+C:\Users\aluno\Desktop\Contagem de Controles\Contagem de Controles\bin\Debug\Contagem de Controles.exe
+C:\Users\aluno\Desktop\Contagem de Controles\Contagem de Controles\bin\Debug\Contagem de Controles.pdb
+C:\Users\aluno\Desktop\Contagem de Controles\Contagem de Controles\obj\Debug\Contagem de Controles.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Contagem de Controles\Contagem de Controles\obj\Debug\Contagem_de_Controles.Properties.Resources.resources
+C:\Users\aluno\Desktop\Contagem de Controles\Contagem de Controles\obj\Debug\Contagem de Controles.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Contagem de Controles\Contagem de Controles\obj\Debug\Contagem de Controles.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Contagem de Controles\Contagem de Controles\obj\Debug\Contagem de Controles.exe
+C:\Users\aluno\Desktop\Contagem de Controles\Contagem de Controles\obj\Debug\Contagem de Controles.pdb
+C:\Users\aluno\Desktop\Contagem de Controles\Contagem de Controles\obj\Debug\Contagem_de_Controles.frmPrincipal.resources
